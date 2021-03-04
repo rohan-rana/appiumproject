@@ -1,0 +1,20 @@
+2021-02-01 14:43:59 INFO  BaseClass:33 - Initialized the home page object
+2021-02-01 14:46:09 INFO  HomeTest:41 - Verify action sheet functionality
+2021-02-01 14:46:16 INFO  HomeTest:54 - Verify alert views tab functionality
+2021-02-01 14:46:28 INFO  HomeTest:67 - Verify back button functionality
+2021-02-01 14:46:36 INFO  HomeTest:28 - Verify home control availablity
+2021-02-01 14:47:40 INFO  BaseClass:33 - Initialized the home page object
+2021-02-01 14:47:50 INFO  AlertViewsTest:47 - Verify ok and cancel alert functionality
+2021-02-01 14:47:59 INFO  AlertViewsTest:62 - Verify other alert functionality
+2021-02-01 14:48:05 INFO  AlertViewsTest:28 - Verify simple alert functionality
+2021-02-01 14:48:12 INFO  BaseClass:33 - Initialized the home page object
+2021-02-01 14:48:26 INFO  ActionSheetsTest:42 - Verify cancel button functioonality
+2021-02-01 14:48:35 INFO  ActionSheetsTest:56 - Verify destructive choice button functionality
+2021-02-01 14:48:39 INFO  ActionSheetsTest:27 - Verify ok button functioonality
+2021-02-01 14:48:45 INFO  ActionSheetsTest:70 - Verify safe choice button functionality
+2021-02-01 14:48:48 INFO  BaseClass:33 - Initialized the home page object
+2021-02-01 14:49:01 INFO  DragAndDropTest:25 - Drag and drop test for android
+2021-02-01 14:49:02 INFO  BaseClass:33 - Initialized the home page object
+2021-02-01 14:49:14 INFO  ScrolToViewTest:26 - Scroll to view test
+2021-02-01 14:49:15 INFO  BaseClass:33 - Initialized the home page object
+2021-02-01 14:49:28 INFO  LongPressTest:26 - Long press test for android

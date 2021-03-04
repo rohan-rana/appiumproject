@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [IOS Suite]">
+  <test name="IOS Test(failed)">
+    <classes>
+      <class name="com.appium.ios.gestures.HomeTest">
+        <methods>
+          <include name="getHomePageInstance"/>
+          <include name="verifyHomePageOptions"/>
+        </methods>
+      </class> <!-- com.appium.ios.gestures.HomeTest -->
+      <class name="com.appium.ios.gestures.VerifySliderTest">
+        <methods>
+          <include name="getHomePageInstance"/>
+        </methods>
+      </class> <!-- com.appium.ios.gestures.VerifySliderTest -->
+      <class name="com.appium.ios.gestures.VerifyPickerSelectionTest">
+        <methods>
+          <include name="getHomePageInstance"/>
+        </methods>
+      </class> <!-- com.appium.ios.gestures.VerifyPickerSelectionTest -->
+      <class name="com.appium.ios.gestures.VerifyScrollTest">
+        <methods>
+          <include name="getHomePageInstance"/>
+        </methods>
+      </class> <!-- com.appium.ios.gestures.VerifyScrollTest -->
+    </classes>
+  </test> <!-- IOS Test(failed) -->
+</suite> <!-- Failed suite [IOS Suite] -->

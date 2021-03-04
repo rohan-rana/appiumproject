@@ -1,0 +1,14 @@
+2021-01-26 13:53:27 INFO  BaseClass:33 - Initialized the home page object
+2021-01-26 13:53:35 INFO  AlertViewsTest:47 - Verify ok and cancel alert functionality
+2021-01-26 13:53:41 INFO  AlertViewsTest:62 - Verify other alert functionality
+2021-01-26 13:53:46 INFO  AlertViewsTest:28 - Verify simple alert functionality
+2021-01-26 13:53:51 INFO  BaseClass:33 - Initialized the home page object
+2021-01-26 13:53:51 INFO  ActionSheetsTest:42 - Verify cancel button functioonality
+2021-01-26 13:54:02 INFO  ActionSheetsTest:56 - Verify destructive choice button functionality
+2021-01-26 13:54:13 INFO  ActionSheetsTest:27 - Verify ok button functioonality
+2021-01-26 13:54:24 INFO  ActionSheetsTest:70 - Verify safe choice button functionality
+2021-01-26 13:54:35 INFO  BaseClass:33 - Initialized the home page object
+2021-01-26 13:54:35 INFO  HomeTest:41 - Verify action sheet functionality
+2021-01-26 13:54:46 INFO  HomeTest:54 - Verify alert views tab functionality
+2021-01-26 13:54:47 INFO  HomeTest:67 - Verify back button functionality
+2021-01-26 13:54:58 INFO  HomeTest:28 - Verify home control availablity

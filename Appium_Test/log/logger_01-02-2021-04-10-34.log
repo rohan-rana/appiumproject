@@ -1,0 +1,5 @@
+2021-02-01 16:10:34 INFO  BaseClass:33 - Initialized the home page object
+2021-02-01 16:10:49 INFO  HomeTest:41 - Verify action sheet functionality
+2021-02-01 16:10:54 INFO  HomeTest:54 - Verify alert views tab functionality
+2021-02-01 16:11:05 INFO  HomeTest:67 - Verify back button functionality
+2021-02-01 16:11:11 INFO  HomeTest:28 - Verify home control availablity

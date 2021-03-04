@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="IOS Suite">
+	<test thread-count="5" name="IOS Test">
+		<classes>
+			<class name="com.appium.ios.gestures.HomeTest" />
+			<class name="com.appium.ios.gestures.VerifyPickerSelectionTest" />
+			<class name="com.appium.ios.gestures.VerifyScrollTest" />
+			<class name="com.appium.ios.gestures.VerifySliderTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
